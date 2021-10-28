@@ -26,6 +26,15 @@ Assets {
   }
 }
 Assets {
+  Id: 11505718733396438240
+  Name: "Craftsman Dining Table"
+  PlatformAssetType: 1
+  PrimaryAsset {
+    AssetType: "StaticMeshAssetRef"
+    AssetId: "sm_urb_table_dining_001"
+  }
+}
+Assets {
   Id: 7887238662729938253
   Name: "Sky Dome"
   PlatformAssetType: 6
