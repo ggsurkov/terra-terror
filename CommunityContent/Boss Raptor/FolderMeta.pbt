@@ -1,0 +1,79 @@
+MetaVersion: 1
+MarketplaceDetails {
+  Id: "24f38f04664a4068befd01be9e63922e"
+  OwnerAccountId: "76dd0f6156ce48d18fbf66bf57ddafe3"
+  OwnerName: "Knusperente341"
+  Version: "1.0.0"
+}
+AssetIdsOriginalToNew {
+  key: 554905235910201471
+  value: 15455415022923513010
+}
+AssetIdsOriginalToNew {
+  key: 925377160427582908
+  value: 8804166212955605556
+}
+AssetIdsOriginalToNew {
+  key: 1744055775201815895
+  value: 18001754935391063834
+}
+AssetIdsOriginalToNew {
+  key: 2432064990653585750
+  value: 3258134451238976979
+}
+AssetIdsOriginalToNew {
+  key: 2866453481210436698
+  value: 13137984022282603178
+}
+AssetIdsOriginalToNew {
+  key: 4911783365964854705
+  value: 17480058813374627367
+}
+AssetIdsOriginalToNew {
+  key: 5062236556110759051
+  value: 16331839788897877610
+}
+AssetIdsOriginalToNew {
+  key: 6242185169651238900
+  value: 14605295562327714104
+}
+AssetIdsOriginalToNew {
+  key: 6558306687128840017
+  value: 8344271118625734130
+}
+AssetIdsOriginalToNew {
+  key: 7603688723298499216
+  value: 1135301762417376403
+}
+AssetIdsOriginalToNew {
+  key: 9235509512547091831
+  value: 18130207494802957228
+}
+AssetIdsOriginalToNew {
+  key: 11824074745884289341
+  value: 9534270251235341276
+}
+AssetIdsOriginalToNew {
+  key: 12511822910618706158
+  value: 17021409929960007802
+}
+AssetIdsOriginalToNew {
+  key: 15567055502601132773
+  value: 12346590525230553304
+}
+AssetIdsOriginalToNew {
+  key: 16174116073753525542
+  value: 2857230201629444187
+}
+AssetIdsOriginalToNew {
+  key: 16521220339777859937
+  value: 3794612566420872195
+}
+AssetIdsOriginalToNew {
+  key: 17393120531124068884
+  value: 5821542272832043869
+}
+AssetIdsOriginalToNew {
+  key: 18045760744820104602
+  value: 17201835763535945559
+}

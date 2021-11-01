@@ -1,0 +1,115 @@
+MetaVersion: 1
+MarketplaceDetails {
+  Id: "dfc8d4c717cb423493c0b7511389e87e"
+  OwnerAccountId: "3224867152154595873c57516a20da91"
+  OwnerName: "FlamingPhoenix"
+  Version: "1.0.0"
+}
+AssetIdsOriginalToNew {
+  key: 148554395896015852
+  value: 10989038849195431739
+}
+AssetIdsOriginalToNew {
+  key: 1130546240676187055
+  value: 2751690403470075844
+}
+AssetIdsOriginalToNew {
+  key: 2122641579295559741
+  value: 17022013358400097146
+}
+AssetIdsOriginalToNew {
+  key: 2621697404510469444
+  value: 18293311889604918520
+}
+AssetIdsOriginalToNew {
+  key: 3979890417953276955
+  value: 12969766742280158457
+}
+AssetIdsOriginalToNew {
+  key: 4803402500690841996
+  value: 387232268542678545
+}
+AssetIdsOriginalToNew {
+  key: 5269374659596535203
+  value: 18379800600256863681
+}
+AssetIdsOriginalToNew {
+  key: 6209342634077651576
+  value: 10128568707502607987
+}
+AssetIdsOriginalToNew {
+  key: 6318394794843825577
+  value: 617955139299393776
+}
+AssetIdsOriginalToNew {
+  key: 7715769015823844353
+  value: 11473289654695188772
+}
+AssetIdsOriginalToNew {
+  key: 8812489770756171456
+  value: 12345485851573546859
+}
+AssetIdsOriginalToNew {
+  key: 9317387183413848237
+  value: 10513124111736149295
+}
+AssetIdsOriginalToNew {
+  key: 9497022170413751559
+  value: 11003527648834047939
+}
+AssetIdsOriginalToNew {
+  key: 9586734462078401090
+  value: 13928811386309506088
+}
+AssetIdsOriginalToNew {
+  key: 9836505753789334506
+  value: 7415802918334131062
+}
+AssetIdsOriginalToNew {
+  key: 9946384796310230231
+  value: 11288630896432186993
+}
+AssetIdsOriginalToNew {
+  key: 10173803471747203167
+  value: 15847324451895428903
+}
+AssetIdsOriginalToNew {
+  key: 10450718809991311360
+  value: 17991722811764076185
+}
+AssetIdsOriginalToNew {
+  key: 10641495837366873452
+  value: 5248308813283673300
+}
+AssetIdsOriginalToNew {
+  key: 12700266194136860395
+  value: 5441803475105541681
+}
+AssetIdsOriginalToNew {
+  key: 13861886751223086479
+  value: 16349900664640873818
+}
+AssetIdsOriginalToNew {
+  key: 15037832619441364213
+  value: 9125146931803230904
+}
+AssetIdsOriginalToNew {
+  key: 15959557942525878442
+  value: 4053830010480383936
+}
+AssetIdsOriginalToNew {
+  key: 17053419250306083060
+  value: 17153375645689545835
+}
+AssetIdsOriginalToNew {
+  key: 17547892076236131419
+  value: 16380578795977867744
+}
+AssetIdsOriginalToNew {
+  key: 17567873809576947365
+  value: 7558323328582881826
+}
+AssetIdsOriginalToNew {
+  key: 17624513992595233476
+  value: 3206547456057629278
+}
