@@ -1,0 +1,103 @@
+MetaVersion: 1
+MarketplaceDetails {
+  Id: "9b2ce72a4a0d4e1cb197780c7601b932"
+  OwnerAccountId: "e98a16a2eed740b097b0e59d2e7cdb94"
+  OwnerName: "OPGamerbuild13"
+  Version: "1.0.0"
+}
+AssetIdsOriginalToNew {
+  key: 508955600362485543
+  value: 2544858565130617982
+}
+AssetIdsOriginalToNew {
+  key: 529333644001932816
+  value: 14253879758859027892
+}
+AssetIdsOriginalToNew {
+  key: 1935808538915643933
+  value: 11179131469868980448
+}
+AssetIdsOriginalToNew {
+  key: 2283482956322793696
+  value: 7630113517007742998
+}
+AssetIdsOriginalToNew {
+  key: 3451225007995030525
+  value: 10248024533901138198
+}
+AssetIdsOriginalToNew {
+  key: 3492741301770106126
+  value: 13980739665862802481
+}
+AssetIdsOriginalToNew {
+  key: 4475409058531227593
+  value: 7201025776145780753
+}
+AssetIdsOriginalToNew {
+  key: 5491748990845651426
+  value: 11131221382360091327
+}
+AssetIdsOriginalToNew {
+  key: 5758384356438161800
+  value: 3541497017871340796
+}
+AssetIdsOriginalToNew {
+  key: 7706903974049580218
+  value: 1899730598045066466
+}
+AssetIdsOriginalToNew {
+  key: 8159919758709238139
+  value: 17270907163279464579
+}
+AssetIdsOriginalToNew {
+  key: 8164851161742552419
+  value: 12108332324619275762
+}
+AssetIdsOriginalToNew {
+  key: 8217545818904463510
+  value: 5831770904972181570
+}
+AssetIdsOriginalToNew {
+  key: 9015126054188623774
+  value: 17815084336265865604
+}
+AssetIdsOriginalToNew {
+  key: 9937066175391985179
+  value: 6693516833982326174
+}
+AssetIdsOriginalToNew {
+  key: 10267241590942829809
+  value: 9758104298960715049
+}
+AssetIdsOriginalToNew {
+  key: 10288401213230859519
+  value: 7845952984839434133
+}
+AssetIdsOriginalToNew {
+  key: 10317865530202538437
+  value: 9772972160986343721
+}
+AssetIdsOriginalToNew {
+  key: 11149790450730137073
+  value: 5167115406239122694
+}
+AssetIdsOriginalToNew {
+  key: 11959065131072428944
+  value: 794757760298081388
+}
+AssetIdsOriginalToNew {
+  key: 12840799246927749025
+  value: 3057840377776902275
+}
+AssetIdsOriginalToNew {
+  key: 13784959764130890258
+  value: 12027925973085827600
+}
+AssetIdsOriginalToNew {
+  key: 14430440058189018107
+  value: 10305966476874151469
+}
+AssetIdsOriginalToNew {
+  key: 14901021956287985939
+  value: 273100168678195848
+}
